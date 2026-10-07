@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,scroll down,,yes
+2,click,Display,yes
+3,click,100%,yes
+4,status,,

@@ -1,0 +1,18 @@
+step,action,target,screen_changed
+1,click,New Event,yes
+2,click,Event,yes
+3,input_text,Title,yes
+4,input_text,Description,yes
+5,click,16:00,yes
+6,click,14 14 hours,yes
+7,click,OK,yes
+8,click,14:00,yes
+9,click,15 15 hours,yes
+10,click,OK,yes
+11,click,No repetition,yes
+12,click,Weekly,yes
+13,click,Save,yes
+14,click,OK,yes
+15,click,Change view,yes
+16,click,Simple event list,yes
+17,status,,

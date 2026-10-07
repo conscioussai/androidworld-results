@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,"Bluetooth, pairing",yes
+2,click,Connection preferences,yes
+3,click,Bluetooth,yes
+4,click,,yes
+5,wait,,no
+6,status,,

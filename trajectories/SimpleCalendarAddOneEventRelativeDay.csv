@@ -1,0 +1,20 @@
+step,action,target,screen_changed
+1,click,New Event,yes
+2,click,Event,yes
+3,input_text,Title,yes
+4,input_text,Description,yes
+5,click,October 15 (Sun),yes
+6,click,19 19 October 2023,yes
+7,click,OK,yes
+8,click,16:00,yes
+9,click,5 5 hours,yes
+10,click,OK,yes
+11,click,05:00,yes
+12,click,6 6 hours,yes
+13,click,OK,yes
+14,click,Save,yes
+15,click,OK,yes
+16,status,,
+17,click,Change view,yes
+18,click,Simple event list,yes
+19,status,,

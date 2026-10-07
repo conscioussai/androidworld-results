@@ -1,0 +1,23 @@
+step,action,target,screen_changed
+1,click,Caprese Salad Skewers,yes
+2,navigate_back,,yes
+3,click,Caprese Salad Skewers,yes
+4,navigate_back,,yes
+5,click,Caprese Salad Skewers,yes
+6,navigate_back,,yes
+7,click,Recipe photo,yes
+8,navigate_back,,yes
+9,click,Recipe photo,yes
+10,click,More options,yes
+11,click,Delete,yes
+12,click,DELETE,yes
+13,scroll down,Recipes,yes
+14,status,,
+15,click,Pan-Seared Salmon with Quinoa,yes
+16,navigate_back,,yes
+17,click,Pan-Seared Salmon with Quinoa,yes
+18,navigate_back,,yes
+19,click,Pan-Seared Salmon with Quinoa,yes
+20,navigate_back,,yes
+21,status,,
+22,status,,

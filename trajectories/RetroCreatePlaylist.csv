@@ -1,0 +1,17 @@
+step,action,target,screen_changed
+1,click,Songs,yes
+2,long_press,Golden Days,yes
+3,click,More options,yes
+4,click,Add to playlist,yes
+5,click,New playlist,yes
+6,input_text,Playlist name,yes
+7,click,Create,yes
+8,long_press,Dreamer's Awake,yes
+9,click,More options,yes
+10,click,Add to playlist,yes
+11,click,Hip Hop Bangers 270,yes
+12,long_press,Hidden Paths,yes
+13,click,More options,yes
+14,click,Add to playlist,yes
+15,click,Hip Hop Bangers 270,yes
+16,click,Playlists,yes

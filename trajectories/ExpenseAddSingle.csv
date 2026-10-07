@@ -1,0 +1,9 @@
+step,action,target,screen_changed
+1,click,,yes
+2,input_text,Name,yes
+3,input_text,Amount,yes
+4,scroll right,Food,yes
+5,click,Health Care,no
+6,input_text,Note,yes
+7,click,SAVE,yes
+8,status,,

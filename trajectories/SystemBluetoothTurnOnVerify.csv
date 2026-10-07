@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,click,Connected devices,yes
+2,click,Connection preferences,yes
+3,click,Bluetooth,yes
+4,status,,

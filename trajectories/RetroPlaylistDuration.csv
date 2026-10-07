@@ -1,0 +1,22 @@
+step,action,target,screen_changed
+1,click,Songs,yes
+2,long_press,Beyond the Horizon,yes
+3,click,More options,yes
+4,click,Select all,yes
+5,click,More options,yes
+6,click,Add to playlist,yes
+7,click,New playlist,yes
+8,input_text,Playlist name,yes
+9,click,Create,yes
+10,click,Playlists,yes
+11,click,Reggae Rhythms 51,yes
+12,click,,yes
+13,click,Remove from playlist,yes
+14,click,Remove,yes
+15,long_press,City of Stars,yes
+16,click,Endless Summer,yes
+17,click,Eternal Flame,yes
+18,click,Falling Feathers,yes
+19,click,More options,yes
+20,click,Remove from playlist,yes
+21,click,Remove,yes

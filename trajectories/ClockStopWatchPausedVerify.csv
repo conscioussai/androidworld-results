@@ -1,0 +1,4 @@
+step,action,target,screen_changed
+1,click,Stopwatch,yes
+2,status,,
+3,status,,

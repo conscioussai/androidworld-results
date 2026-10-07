@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,click,[phone number],yes
+2,input_text,Type a message…,yes
+3,click,SMS OK,yes
+4,status,,

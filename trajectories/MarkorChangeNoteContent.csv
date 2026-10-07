@@ -1,0 +1,9 @@
+step,action,target,screen_changed
+1,click,File strong_jacket_h1hZ.txt,yes
+2,input_text,pZwh1hZwvmPj5inNqu8U\n,yes
+3,navigate_back,,yes
+4,long_press,File strong_jacket_h1hZ.txt,yes
+5,click,Rename,yes
+6,input_text,strong_jacket_h1hZ.txt,yes
+7,click,OK,yes
+8,status,,

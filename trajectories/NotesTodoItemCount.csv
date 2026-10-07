@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,Sidebar,yes
+2,click,Ideas,yes
+3,scroll down,,yes
+4,answer,,
+5,scroll down,,no
+6,answer,,

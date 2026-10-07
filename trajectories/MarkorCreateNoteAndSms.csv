@@ -1,0 +1,15 @@
+step,action,target,screen_changed
+1,click,Create a new file or folder,yes
+2,input_text,my_note,yes
+3,input_text,.md,yes
+4,click,OK,yes
+5,input_text,,yes
+6,answer,,
+7,click,Save,no
+8,answer,,
+9,click,Start a conversation,yes
+10,input_text,Add Contact or Number…,yes
+11,click,Add Contact or Number…,yes
+12,input_text,Type a message…,yes
+13,click,SMS OK,yes
+14,status,,

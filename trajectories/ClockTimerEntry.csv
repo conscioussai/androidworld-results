@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,Timer,yes
+2,click,1,yes
+3,click,6,yes
+4,click,3,yes
+5,click,5,yes
+6,status,,

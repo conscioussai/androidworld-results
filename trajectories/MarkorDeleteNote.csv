@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,long_press,bold_king_edited,yes
+2,click,Delete,yes
+3,click,OK,yes
+4,status,,

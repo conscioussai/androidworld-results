@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,Get started,yes
+2,click,Apply,yes
+3,click,Recording: %s,no
+4,click,,yes
+5,input_text,Record-1,yes
+6,click,Save,yes

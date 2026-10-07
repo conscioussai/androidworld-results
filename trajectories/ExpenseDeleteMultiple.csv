@@ -1,0 +1,11 @@
+step,action,target,screen_changed
+1,click,Taxi Fare,yes
+2,click,,yes
+3,click,CONFIRM,yes
+4,click,Ride-Sharing,yes
+5,click,,yes
+6,click,CONFIRM,yes
+7,click,Flight Tickets,yes
+8,click,,yes
+9,click,CONFIRM,yes
+10,status,,

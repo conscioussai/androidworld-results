@@ -1,0 +1,6 @@
+step,action,target,screen_changed
+1,click,,yes
+2,click,,yes
+3,input_text,Search,yes
+4,click,Submit query,yes
+5,answer,,

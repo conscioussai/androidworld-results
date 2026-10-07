@@ -1,0 +1,4 @@
+step,action,target,screen_changed
+1,long_press,final_friendly_king.md,yes
+2,click,Delete,yes
+3,click,OK,yes

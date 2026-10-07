@@ -1,0 +1,18 @@
+step,action,target,screen_changed
+1,click,,yes
+2,click,,yes
+3,open_app,Files,no
+4,click,task.html,yes
+5,click,Just once,no
+6,click,Use without an account,no
+7,click,Use without an account,yes
+8,click,task.html,yes
+9,click,Just once,yes
+10,click,Click Me,yes
+11,click,Click Me,yes
+12,click,Click Me,yes
+13,click,Click Me,no
+14,click,Click Me,yes
+15,input_text,Enter the product,yes
+16,click,Submit,yes
+17,status,,

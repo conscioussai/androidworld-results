@@ -1,0 +1,14 @@
+step,action,target,screen_changed
+1,click,Accept & continue,yes
+2,wait,,no
+3,click,No thanks,yes
+4,open_app,Files,no
+5,click,task.html,yes
+6,click,Just once,yes
+7,click,,yes
+8,swipe,,yes
+9,click,,yes
+10,swipe,,yes
+11,click,,no
+12,swipe,,yes
+13,click,Submit,yes

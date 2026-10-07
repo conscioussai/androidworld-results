@@ -1,0 +1,6 @@
+step,action,target,screen_changed
+1,click,Now you can find Settings and Help & feedback here\nOpen...,yes
+2,click,Close,yes
+3,status,,
+4,status,,
+5,status,,

@@ -1,0 +1,33 @@
+step,action,target,screen_changed
+1,click,,yes
+2,input_text,Name,yes
+3,input_text,Amount,yes
+4,input_text,Amount,yes
+5,click,Social,no
+6,input_text,Note,yes
+7,input_text,Social Club Dues,yes
+8,click,Social,no
+9,click,SAVE,yes
+10,status,,
+11,click,,yes
+12,input_text,Name,yes
+13,input_text,Amount,yes
+14,scroll right,Food,yes
+15,scroll right,Entertainment,yes
+16,click,Others,no
+17,input_text,Note,yes
+18,click,SAVE,yes
+19,status,,
+20,click,,yes
+21,input_text,Name,
+22,input_text,Amount,
+23,scroll right,Food,
+24,input_text,Name,yes
+25,input_text,Amount,yes
+26,scroll right,Food,yes
+27,scroll right,Entertainment,yes
+28,click,Others,no
+29,input_text,Note,yes
+30,input_text,Stationery,yes
+31,click,SAVE,yes
+32,status,,

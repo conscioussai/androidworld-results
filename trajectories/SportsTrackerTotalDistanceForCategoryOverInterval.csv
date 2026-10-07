@@ -1,0 +1,13 @@
+step,action,target,screen_changed
+1,click,,yes
+2,click,,yes
+3,input_text,Search,yes
+4,click,Submit query,yes
+5,answer,,
+6,click,Need more strength and conditioning,yes
+7,click,More options,yes
+8,click,Edit,yes
+9,navigate_back,,yes
+10,click,Navigate up,no
+11,click,Mindful Movement,yes
+12,answer,,

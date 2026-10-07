@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,click,Create a new file or folder,yes
+2,input_text,my_note,yes
+3,click,FOLDER,yes
+4,status,,

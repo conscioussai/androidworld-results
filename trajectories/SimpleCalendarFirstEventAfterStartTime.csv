@@ -1,0 +1,8 @@
+step,action,target,screen_changed
+1,click,Change view,yes
+2,click,Simple event list,yes
+3,scroll down,Appointment for Annual Report,yes
+4,scroll down,,yes
+5,scroll down,,yes
+6,scroll down,,yes
+7,answer,,

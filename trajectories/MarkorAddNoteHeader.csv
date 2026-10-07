@@ -1,0 +1,9 @@
+step,action,target,screen_changed
+1,click,File 2023_08_10_neat_wolf.txt,yes
+2,input_text,Weekend plans: Hiking trip to Blue Mountain.\n,yes
+3,navigate_back,,yes
+4,long_press,File 2023_08_10_neat_wolf.txt,yes
+5,click,Rename,yes
+6,input_text,2023_08_10_neat_wolf.txt,yes
+7,click,OK,yes
+8,status,,

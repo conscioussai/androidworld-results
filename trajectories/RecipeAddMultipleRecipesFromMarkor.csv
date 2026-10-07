@@ -1,0 +1,36 @@
+step,action,target,screen_changed
+1,click,recipes.txt,yes
+2,answer,,
+3,click,New Recipe,yes
+4,input_text,Title,yes
+5,input_text,Description,yes
+6,input_text,Servings,yes
+7,input_text,Time,yes
+8,input_text,Ingredients,yes
+9,input_text,Directions,yes
+10,click,SAVE,yes
+11,click,Navigate up,no
+12,navigate_back,,yes
+13,click,New Recipe,yes
+14,input_text,Title,yes
+15,input_text,Description,yes
+16,input_text,Servings,yes
+17,input_text,Time,yes
+18,input_text,Ingredients,yes
+19,input_text,Directions,yes
+20,click,SAVE,yes
+21,navigate_back,,yes
+22,click,New Recipe,yes
+23,input_text,Title,yes
+24,input_text,Description,yes
+25,input_text,Servings,yes
+26,input_text,Time,yes
+27,input_text,Ingredients,yes
+28,input_text,Directions,yes
+29,click,SAVE,yes
+30,navigate_back,,yes
+31,status,,
+32,scroll down,Recipes,yes
+33,scroll up,,yes
+34,scroll up,,yes
+35,status,,

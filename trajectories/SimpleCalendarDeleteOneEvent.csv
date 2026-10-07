@@ -1,0 +1,8 @@
+step,action,target,screen_changed
+1,click,,yes
+2,input_text,Search,yes
+3,click,Workshop on Project X,yes
+4,click,Delete,yes
+5,click,Yes,yes
+6,click,Search,yes
+7,status,,

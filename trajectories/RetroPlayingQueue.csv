@@ -1,0 +1,16 @@
+step,action,target,screen_changed
+1,click,Songs,yes
+2,long_press,Through the Storm,yes
+3,click,Add to playing queue,yes
+4,long_press,Hidden Paths,yes
+5,click,Add to playing queue,yes
+6,long_press,Forever Young,yes
+7,click,Add to playing queue,yes
+8,scroll down,Beyond the Horizon,yes
+9,long_press,Whispers of the Past,yes
+10,click,Add to playing queue,yes
+11,long_press,Heartbeat Away,yes
+12,click,Add to playing queue,yes
+13,click,Through the Storm • Liam,yes
+14,click,Now playing queue,yes
+15,status,,

@@ -1,0 +1,5 @@
+step,action,target,screen_changed
+1,click,Network & internet,yes
+2,click,Internet,yes
+3,click,,yes
+4,status,,

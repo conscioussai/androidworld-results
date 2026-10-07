@@ -1,0 +1,37 @@
+step,action,target,screen_changed
+1,click,DCIM,yes
+2,click,photo tile,yes
+3,answer,,
+4,answer,,
+5,click,New Recipe,yes
+6,input_text,Title,yes
+7,input_text,Description,yes
+8,input_text,Servings,yes
+9,input_text,Time,yes
+10,input_text,Ingredients,yes
+11,input_text,Directions,yes
+12,click,SAVE,yes
+13,click,Navigate up,yes
+14,click,New Recipe,yes
+15,input_text,Title,yes
+16,input_text,Description,yes
+17,input_text,Servings,yes
+18,input_text,Time,yes
+19,input_text,Ingredients,yes
+20,input_text,Directions,yes
+21,click,SAVE,yes
+22,click,Navigate up,yes
+23,click,New Recipe,yes
+24,input_text,Title,yes
+25,input_text,Description,yes
+26,input_text,Servings,yes
+27,input_text,Time,yes
+28,input_text,Ingredients,yes
+29,input_text,Directions,yes
+30,click,SAVE,yes
+31,click,Navigate up,yes
+32,status,,
+33,scroll down,Recipes,yes
+34,scroll up,Recipes,yes
+35,scroll up,Recipes,yes
+36,status,,

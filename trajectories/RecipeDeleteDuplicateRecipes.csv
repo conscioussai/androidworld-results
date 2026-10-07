@@ -1,0 +1,8 @@
+step,action,target,screen_changed
+1,click,Chicken Alfredo Pasta,yes
+2,navigate_back,,yes
+3,click,Chicken Alfredo Pasta,yes
+4,click,More options,yes
+5,click,Delete,yes
+6,click,DELETE,yes
+7,status,,

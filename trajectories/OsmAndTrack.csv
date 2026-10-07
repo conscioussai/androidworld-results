@@ -1,0 +1,31 @@
+step,action,target,screen_changed
+1,input_text,Search,yes
+2,click,,yes
+3,navigate_back,,yes
+4,click,Navigate up,yes
+5,click,Navigate up,yes
+6,click,Back to menu,yes
+7,click,Plan a route,yes
+8,click,Create new route,yes
+9,input_text,Search,yes
+10,click,,yes
+11,navigate_back,,yes
+12,navigate_back,,yes
+13,click,Navigate up,yes
+14,click,Add,yes
+15,input_text,Search,yes
+16,click,Triesen,yes
+17,click,SHOW TRIESEN ON THE MAP,yes
+18,navigate_back,,yes
+19,navigate_back,,yes
+20,click,Navigate up,yes
+21,click,Add,yes
+22,input_text,Search,yes
+23,click,,yes
+24,click,SHOW BENDERN ON THE MAP,yes
+25,navigate_back,,yes
+26,navigate_back,,yes
+27,click,Navigate up,yes
+28,click,Add,yes
+29,click,Done Done,yes
+30,status,,

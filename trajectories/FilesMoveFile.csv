@@ -1,0 +1,17 @@
+step,action,target,screen_changed
+1,click,Show roots,no
+2,click,sdk_gphone64_arm64,yes
+3,click,Podcasts,yes
+4,scroll down,,yes
+5,scroll down,,yes
+6,long_press,holiday_photos.jpg,yes
+7,click,More options,yes
+8,click,Move to…,yes
+9,click,Show roots,yes
+10,click,sdk_gphone64_arm64,yes
+11,click,DCIM,yes
+12,click,MOVE,yes
+13,click,Show roots,yes
+14,click,sdk_gphone64_arm64,yes
+15,click,DCIM,yes
+16,status,,

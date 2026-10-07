@@ -1,0 +1,15 @@
+step,action,target,screen_changed
+1,click,Create a new file or folder,yes
+2,input_text,my_note,yes
+3,click,OK,yes
+4,input_text,,yes
+5,navigate_back,,yes
+6,click,File 2023_01_26_wise_yacht.md,yes
+7,status,,
+8,navigate_back,,yes
+9,status,,
+10,click,2023_01_26_wise_yacht.md,yes
+11,input_text,Ignorance is bliss.,yes
+12,click,Save,no
+13,navigate_back,,yes
+14,status,,

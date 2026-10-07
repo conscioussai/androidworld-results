@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,MODE LIST Toggle mode list,yes
+2,click,Switch to Video Camera,yes
+3,click,Shutter,yes
+4,wait,,yes
+5,click,Shutter,yes
+6,status,,

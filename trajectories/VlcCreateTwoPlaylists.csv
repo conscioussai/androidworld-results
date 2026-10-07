@@ -1,0 +1,32 @@
+step,action,target,screen_changed
+1,click,Browse,yes
+2,click,Internal memory,yes
+3,click,VLCVideos,yes
+4,click,More Actions,yes
+5,click,Add to playlist,yes
+6,input_text,Playlist name,yes
+7,click,SAVE,yes
+8,scroll down,"File: 01TI_footage_13_, File size: 2:19",yes
+9,click,,yes
+10,click,Add to playlist,yes
+11,click,Ultimate Fails Series,yes
+12,click,More Actions,yes
+13,click,Add to playlist,yes
+14,click,Ultimate Fails Series,yes
+15,click,,yes
+16,click,Add to playlist,yes
+17,click,Ultimate Fails Series,yes
+18,click,More Actions,yes
+19,click,Add to playlist,yes
+20,input_text,Playlist name,yes
+21,click,SAVE,yes
+22,click,More Actions,yes
+23,click,Add to playlist,yes
+24,click,Adventure Marathon,yes
+25,click,More Actions,yes
+26,click,Add to playlist,yes
+27,click,Adventure Marathon,yes
+28,click,More Actions,yes
+29,click,Add to playlist,yes
+30,click,Adventure Marathon,yes
+31,status,,

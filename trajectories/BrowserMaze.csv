@@ -1,0 +1,15 @@
+step,action,target,screen_changed
+1,wait,,no
+2,wait,,no
+3,click,Use without an account,yes
+4,open_app,Files,yes
+5,click,task.html,yes
+6,click,Just once,no
+7,wait,,no
+8,click,Right,yes
+9,click,Down,yes
+10,click,Down,yes
+11,click,Right,yes
+12,click,Down,yes
+13,click,Right,yes
+14,status,,

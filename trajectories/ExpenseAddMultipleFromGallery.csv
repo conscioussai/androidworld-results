@@ -1,0 +1,31 @@
+step,action,target,screen_changed
+1,click,Show all folders content,yes
+2,scroll down,,yes
+3,scroll up,,yes
+4,click,Toggle filename visibility,yes
+5,click,expenses.jpg,yes
+6,answer,,
+7,click,,yes
+8,input_text,Name,
+9,input_text,Amount,
+10,scroll right,Food,
+11,input_text,Name,yes
+12,input_text,Amount,yes
+13,scroll right,Food,yes
+14,click,Clothes,no
+15,input_text,Note,yes
+16,click,SAVE,yes
+17,click,,yes
+18,input_text,Name,yes
+19,input_text,Amount,yes
+20,click,Housing,no
+21,input_text,Note,yes
+22,click,SAVE,yes
+23,click,,yes
+24,input_text,Name,yes
+25,input_text,Amount,yes
+26,scroll right,Food,yes
+27,click,Health Care,no
+28,input_text,Note,yes
+29,click,SAVE,yes
+30,status,,

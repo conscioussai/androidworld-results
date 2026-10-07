@@ -1,0 +1,18 @@
+step,action,target,screen_changed
+1,click,tough_frog_2023_08_05.txt,yes
+2,navigate_back,,yes
+3,click,proud_cat_edited.txt,yes
+4,navigate_back,,yes
+5,click,2023_08_21_friendly_koala.md,yes
+6,navigate_back,,no
+7,click,Create a new file or folder,yes
+8,input_text,my_note,yes
+9,input_text,.md,yes
+10,click,OK,yes
+11,input_text,,yes
+12,navigate_back,,yes
+13,status,,
+14,click,mIObBbo4,yes
+15,navigate_back,,yes
+16,click,mIObBbo4,yes
+17,status,,

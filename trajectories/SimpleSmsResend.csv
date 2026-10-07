@@ -1,0 +1,8 @@
+step,action,target,screen_changed
+1,click,Noa Mohammed,yes
+2,copy_text,Inconceivable!,no
+3,status,,
+4,click,Noa Mohammed,yes
+5,input_text,Type a message…,yes
+6,click,SMS OK,yes
+7,status,,

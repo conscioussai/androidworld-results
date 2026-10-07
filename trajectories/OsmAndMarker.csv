@@ -1,0 +1,14 @@
+step,action,target,screen_changed
+1,input_text,Search,yes
+2,wait,,no
+3,click,Liechtenstein,yes
+4,click,Search,yes
+5,input_text,Liechtenstein,yes
+6,wait,,no
+7,click,Planken,yes
+8,click,SHOW PLANKEN ON THE MAP,yes
+9,click,Marker,yes
+10,status,,
+11,click,Back to menu,yes
+12,click,Map markers,yes
+13,status,,

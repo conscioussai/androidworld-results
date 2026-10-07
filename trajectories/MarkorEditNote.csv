@@ -1,0 +1,7 @@
+step,action,target,screen_changed
+1,click,note_SiFbv.txt,yes
+2,input_text,Don't forget to water the plants while I'm away.\n,yes
+3,navigate_back,,yes
+4,status,,
+5,click,note_SiFbv.txt,yes
+6,status,,

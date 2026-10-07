@@ -1,0 +1,9 @@
+step,action,target,screen_changed
+1,click,StudyGuides,no
+2,scroll down,,yes
+3,long_press,shy_king_copy.md,yes
+4,click,More options,yes
+5,click,Move,yes
+6,click,Folder ..,yes
+7,click,Folder MeetingMinutes,yes
+8,click,SELECT THIS FOLDER,yes

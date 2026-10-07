@@ -1,0 +1,8 @@
+step,action,target,screen_changed
+1,click,,yes
+2,click,Expense Logs,yes
+3,click,,yes
+4,click,,yes
+5,click,CONFIRM,yes
+6,scroll down,,no
+7,status,,

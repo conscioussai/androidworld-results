@@ -1,0 +1,12 @@
+step,action,target,screen_changed
+1,click,Save,yes
+2,input_text,image_2023_10_15_15_34_19,yes
+3,click,OK,yes
+4,status,,
+5,click,SAVE,yes
+6,status,,
+7,open_app,Files,yes
+8,click,Show roots,yes
+9,click,sdk_gphone64_arm64,yes
+10,click,Pictures,yes
+11,status,,

@@ -1,0 +1,21 @@
+step,action,target,screen_changed
+1,input_text,Search,yes
+2,click,Chicken Alfredo Pasta,yes
+3,click,More options,yes
+4,click,Delete,yes
+5,click,DELETE,yes
+6,status,,
+7,click,Clear query,yes
+8,status,,
+9,input_text,Search in ALL RECIPES,yes
+10,click,Tomato Basil Bruschetta,yes
+11,click,More options,yes
+12,click,Delete,yes
+13,click,DELETE,yes
+14,status,,
+15,input_text,Tomato Basil Bruschetta,yes
+16,click,Grilled Cheese with Tomato and Basil,yes
+17,click,More options,yes
+18,click,Delete,yes
+19,click,DELETE,yes
+20,status,,

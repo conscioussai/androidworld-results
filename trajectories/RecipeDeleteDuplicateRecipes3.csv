@@ -1,0 +1,34 @@
+step,action,target,screen_changed
+1,click,Avocado Toast with Egg,yes
+2,navigate_back,,yes
+3,click,Recipe photo,yes
+4,navigate_back,,yes
+5,scroll down,Recipes,yes
+6,click,Butternut Squash Soup,yes
+7,navigate_back,,yes
+8,click,Butternut Squash Soup,yes
+9,navigate_back,,yes
+10,click,Butternut Squash Soup,yes
+11,navigate_back,,yes
+12,click,Butternut Squash Soup,yes
+13,navigate_back,,yes
+14,click,Butternut Squash Soup,yes
+15,navigate_back,,yes
+16,scroll down,,yes
+17,click,Butternut Squash Soup,yes
+18,navigate_back,,yes
+19,click,Butternut Squash Soup,yes
+20,navigate_back,,yes
+21,click,Butternut Squash Soup,yes
+22,navigate_back,,yes
+23,click,Butternut Squash Soup,yes
+24,navigate_back,,yes
+25,click,Butternut Squash Soup,yes
+26,click,More options,yes
+27,click,Delete,yes
+28,click,DELETE,yes
+29,scroll down,,yes
+30,scroll down,,yes
+31,click,Pan-Seared Salmon with Quinoa,yes
+32,navigate_back,,yes
+33,click,Recipe photo,yes

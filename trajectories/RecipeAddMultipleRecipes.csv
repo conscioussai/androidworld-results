@@ -1,0 +1,31 @@
+step,action,target,screen_changed
+1,click,New Recipe,yes
+2,input_text,Title,yes
+3,input_text,Description,yes
+4,input_text,Servings,yes
+5,input_text,Time,yes
+6,input_text,Ingredients,yes
+7,input_text,Directions,yes
+8,input_text,Add the following recipes into the Broccoli app: Recipe:...,yes
+9,click,SAVE,yes
+10,navigate_back,,yes
+11,click,New Recipe,yes
+12,input_text,Title,yes
+13,input_text,Description,yes
+14,input_text,Servings,yes
+15,input_text,Add the following recipes into the Broccoli app: Recipe:...,yes
+16,input_text,Time,yes
+17,input_text,Ingredients,yes
+18,input_text,Directions,yes
+19,click,SAVE,yes
+20,navigate_back,,yes
+21,click,New Recipe,yes
+22,input_text,Title,yes
+23,input_text,Description,yes
+24,input_text,Servings,yes
+25,input_text,Add the following recipes into the Broccoli app: Recipe:...,yes
+26,input_text,Time,yes
+27,input_text,Ingredients,yes
+28,input_text,Directions,yes
+29,click,SAVE,yes
+30,status,,

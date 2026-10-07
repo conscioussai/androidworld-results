@@ -1,0 +1,10 @@
+step,action,target,screen_changed
+1,click,Sort,yes
+2,click,None,yes
+3,click,By due date,yes
+4,navigate_back,,yes
+5,click,Sort,yes
+6,click,,yes
+7,navigate_back,,yes
+8,click,Overdue,yes
+9,answer,,

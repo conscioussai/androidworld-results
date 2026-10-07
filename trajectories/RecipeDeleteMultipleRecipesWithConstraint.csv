@@ -1,0 +1,40 @@
+step,action,target,screen_changed
+1,click,Avocado Toast with Egg,yes
+2,navigate_back,,yes
+3,click,Avocado Toast with Egg,yes
+4,navigate_back,,yes
+5,click,Baked Cod with Lemon and Dill,yes
+6,navigate_back,,yes
+7,click,Beef Stir Fry,yes
+8,navigate_back,,yes
+9,click,Caprese Salad Skewers,yes
+10,navigate_back,,yes
+11,click,"Cauliflower Fried ""Rice""",yes
+12,navigate_back,,yes
+13,scroll down,Recipes,yes
+14,click,Chicken Alfredo Pasta,yes
+15,navigate_back,,yes
+16,click,Chicken Caesar Salad Wrap,yes
+17,navigate_back,,yes
+18,click,Chicken Caesar Salad Wrap,yes
+19,navigate_back,,yes
+20,click,Chickpea Vegetable Soup,yes
+21,navigate_back,,yes
+22,click,Garlic Butter Shrimp,yes
+23,navigate_back,,yes
+24,scroll down,Recipes,yes
+25,click,Grilled Cheese with Tomato and Basil,yes
+26,navigate_back,,yes
+27,click,Grilled Cheese with Tomato and Basil,yes
+28,navigate_back,,yes
+29,click,Lemon Garlic Tilapia,yes
+30,navigate_back,,yes
+31,click,Lemon Garlic Tilapia,yes
+32,navigate_back,,yes
+33,click,Pan-Seared Salmon with Quinoa,yes
+34,navigate_back,,yes
+35,scroll down,Recipes,yes
+36,click,Pan-Seared Salmon with Quinoa,yes
+37,navigate_back,,yes
+38,click,Quinoa Salad with Vegetables,yes
+39,navigate_back,,yes
