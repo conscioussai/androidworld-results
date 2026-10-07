@@ -1,13 +1,12 @@
 # ConscioussAI: a perfect 116/116 on AndroidWorld
 
-**Our phone agent completed every one of the 116 [AndroidWorld](https://github.com/google-research/android_world) tasks, with one attempt per task, inside the benchmark's step limits, using just over half the steps allowed, in a median of 48 seconds per task.**
+**Our phone agent completed every one of the 116 [AndroidWorld](https://github.com/google-research/android_world) tasks, with one attempt per task, inside the benchmark's step limits, using just over half the steps allowed.**
 
 AndroidWorld is the open benchmark for AI agents that operate a real Android phone: 116 tasks across 20 everyday apps, from messages, calendars and contacts to notes, expenses, recipes, media and system settings. Every task is graded automatically by AndroidWorld's own evaluator, which checks the phone's actual state when the agent says it is done.
 
 ## Highlights
 
 - **116 / 116 tasks completed (100%)**, pass@1, no retries.
-- **Fast:** a median of 48 seconds per task; all 116 tasks in about two hours of total agent time.
 - **Efficient:** 1,335 actions used out of 2,349 allowed (57%), counting every action including app launches.
 - **Under the official rules:** official task seed, AndroidWorld's per-task step limits with every app launch counted, and a fresh app state for every task.
 - **Fully traceable:** every task's result and every action the agent took are in this repo.
